@@ -1,7 +1,7 @@
 # asimple
 A quick and dirty script to assemble and emulate small chuncks of assembly instructions `x86-64 for now` for whatever reason you don't want to compile and open up a debugger. 
 
-## Dependciens 
+## Dependencies 
 - Unicron-engine
 - Keystone-engine
 
