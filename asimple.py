@@ -56,7 +56,7 @@ def dump_assembly(code, count):
     for b in code:
         if line_counter == 15:
             line_counter = 0
-            dumo += "\n"
+            dump += "\n"
         dump += str(hex(b)) + ", "
     dump = dump[:-2]
     dump += "]"
